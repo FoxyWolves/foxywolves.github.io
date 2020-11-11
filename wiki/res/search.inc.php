@@ -8,6 +8,8 @@ $imSettings['search']['general'] = array(
 	'defaultScope' => array(
 		'0' => 'index.html',
 		'3' => 'serverregeln.html',
+		'4' => 'plugins.html',
+		'5' => 'befehle.html',
 		'6' => '404.html'
 	),
 	'extendedScope' => array(

@@ -13,6 +13,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://foxywolves.github.io/wiki/plugins.html</loc>
+		<lastmod>2020-11-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://foxywolves.github.io/wiki/befehle.html</loc>
+		<lastmod>2020-11-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://foxywolves.github.io/wiki/404.html</loc>
 		<lastmod>2020-11-11</lastmod>
 		<changefreq>monthly</changefreq>
